@@ -11,7 +11,7 @@ console.log("Enter the Science Mark:"+ Science)
 console.log("Enter the Social Mark:" +Social)
 
 let totalMark = Tamil+English+Maths+Science+Social;
-console.log("Total Marks"+totalMark)
+console.log("Total Marks :"+totalMark)
 
 let Average = totalMark / 5
 console.log("Average Mark :"+Average)
